@@ -32,7 +32,7 @@
     },
     "fontPresets": [],
     "pendant": {
-      "enabled": false,
+      "enabled": true,
       "lineLength": "5rem",
       "lineColor": "#000000",
       "shapeContent": "☁️"
