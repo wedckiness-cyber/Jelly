@@ -5,6 +5,16 @@
     {
       "name": "全部",
       "buttons": []
+    },
+    {
+      "name": "1",
+      "buttons": [
+        {
+          "text": "女尊",
+          "href": "projects/女尊/index.html",
+          "openExternally": false
+        }
+      ]
     }
   ],
   "settings": {
