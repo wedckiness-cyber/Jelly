@@ -19,7 +19,7 @@
   ],
   "settings": {
     "paginationEnabled": true,
-    "themeStyle": "neumorphism",
+    "themeStyle": "glass",
     "jellyBall": {
       "enabled": true,
       "swipeBack": true,
